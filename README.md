@@ -7,5 +7,4 @@ Final project work for the subject "ICAT3130 Mobile Application Development".
 - Compressed folder (.rar) with all the app and code files.
 
 ## Authors:
-Pérez Parra, Fernando (b113530)
-Quintela González, Ana (b113438)
+Fernando Pérez Parra (b113530) and Ana Quintela González (b113438).
